@@ -7,3 +7,4 @@ def mult(a,b):
 def water():
     print("water in bottel")
 
+
