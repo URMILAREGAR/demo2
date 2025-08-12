@@ -4,3 +4,6 @@ def add(a,b):
     return a+b
 def mult(a,b):
     return a*b
+def water():
+    return("water to bottle")
+
