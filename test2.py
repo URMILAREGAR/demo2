@@ -5,5 +5,5 @@ def add(a,b):
 def mult(a,b):
     return a*b
 def water():
-    return("water to bottle")
+    print("water in bottel")
 
